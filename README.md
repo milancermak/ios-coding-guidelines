@@ -21,6 +21,9 @@ Finally, when I write code, I also optimize for **Collaboration**. By that I mea
 
 I tend to follow these rules not just for all the programming I do, not just iOS apps. It makes life easier and more enjoyable.
 
+## Contents
+ * [Code formatting](Formatting.md)
+
 ## TODO
 This guide is a work in progress. Here's a summary (in no particular order) of topics I want to add:
  * Writing modern, clean and correct Objective-C
